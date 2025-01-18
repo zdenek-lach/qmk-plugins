@@ -2,7 +2,7 @@ export function Name() { return "MonsGeek M5 QMK Keyboard"; }
 export function Version() { return "1.1.6"; }
 export function VendorId() { return 0xFFFE; }
 export function ProductId() { return 0x000A; }
-export function Publisher() { return "Polyhaze (@Polyhaze) / Dylan Perks (@Perksey)"; }
+export function Publisher() { return "Sidonius (Zdeněk Lach)"; }
 export function Documentation(){ return "qmk/srgbmods-qmk-firmware"; }
 export function Size() { return [23, 6]; }
 export function DefaultPosition(){return [10, 100]; }
