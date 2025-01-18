@@ -329,5 +329,5 @@ export function Validate(endpoint) {
 }
 
 export function Image() {
-    return "";
+    return "https://manuals.plus/wp-content/uploads/2023/03/MONSGEEK-logo.jpg";
 }
